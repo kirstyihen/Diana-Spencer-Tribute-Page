@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<style>
+
+		
+		body {
+			background-color: #000080;
+			margin: 20%;
+		}
+
+
+		#title {
+			text-align: center;
+			text-shadow: 5px 5px 10px white;
+			font-size: 7vh;
+		}
+
+
+		img {
+			display: inline-block;
+			width: 100%;
+		}
+
+
+		#caption {
+			font-size: 17px;
+			font-family: Didot;
+			color: White;
+		}
+
+
+		div#tribute-data {
+			background-color: rgb(65, 105, 225);
+			box-shadow: 20px 20px 20px #98FB98;
+			font-family: Lucida Bright;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+
+		
+		h1.title-APJ {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+
+		/* Styling the link provided at the end */
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
+	</style>
+</head>
+
+<body>
+	<main id="main">
+
+		<!-- Title of the page -->
+		<h1 id="title">
+			Diana, the Princess of Wales
+		</h1>
+
+		<div id="img">
+
+			<!--Image of the Tribute Person-->
+			<img src="https://i.insider.com/630fcdc93fe7c40019e4c787?width=700" srcset="https://i.insider.com/630fcdc93fe7c40019e4c787?width=400&amp;format=jpeg&amp;auto=webp 400w, https://i.insider.com/630fcdc93fe7c40019e4c787?width=500&amp;format=jpeg&amp;auto=webp 500w, https://i.insider.com/630fcdc93fe7c40019e4c787?width=700&amp;format=jpeg&amp;auto=webp 700w, https://i.insider.com/630fcdc93fe7c40019e4c787?width=1000&amp;format=jpeg&amp;auto=webp 1000w, https://i.insider.com/630fcdc93fe7c40019e4c787?width=1300&amp;format=jpeg&amp;auto=webp 1300w" sizes="(min-width: 1280px) 900px" alt="Princess Diana Tiaraq" decoding="async" pinger-seen="true">
+			<small id="caption">
+				Fondly nicknamed "the People's Princess" Diana was an international icon, activist, and loving mother.
+			</small>
+		</div>
+
+		<div id="tribute-data">
+
+			<!--Achievements and other
+				details of the person-->
+			<h1 class="title-APJ">
+				About Diana
+			</h1>
+
+			
+
+<p>
+				Diana Frances Spencer was born to British nobility on 1 July 1961 in Park House, Sandringham, England, United Kingdom. She was the mother of Princes William and Harry. Her magnetic personality and activism made her an global icon. Her far-reaching influence changed the lives of many and opened the princess to unprecedented public scrutiny.<br><br>
+			       In 1981, Diana met Prince Charles, the oldest son of Queen Elizabeth II. The same year the couple wed at St. Paul's Cathedral. Their union was celebrated throughout the nation. The newlyweds were enthusiastically received by the public. Hundred flooded the London streets so see them charioted around the city. Diana had two son William and Henry. The couple experienced conflict early one because of Charles' infidelity with Camilla Parker Bowles. Unfortunately their issues were widely discussed by the public.<br><br> 
+                               Diana was known her deep engagement in activism. She initially focused on children and the elderly, but her most famous campaigns involved: decreasing the stigma surrounding the HIV/AIDS epidemic, and the other for the removal of landmines, promoted through the International Red Cross. She also raised awareness and advocated for ways to help people affected by cancer and mental illness. Diana was initially noted for her shyness, but her charisma and friendliness endeared her to the public and helped her reputation survive the acrimonious collapse of her marriage. Considered photogenic, she was a leader of fashion in the 1980s and 1990s.<br><br> 
+				<br><br> Diana's death in a car crash in Paris in 1997 led to extensive public mourning and global media attention. An inquest returned a verdict of "unlawful killing" following Operation Paget, an investigation by the Metropolitan Police. Her legacy has had a deep impact on the royal family and British society.[1]<br><br> 
+				<br><br><br>
+			</p>
+
+
+		</div>
+		<br>
+		 For more information,
+		check out
+                <a href = "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales">Diana, Princess of Wales</a>
+		<a id="tribute-link" href="#">
+			<b>Diana, Princess of Wales</b> on Wikipedia. [
+			<small>Developed by @<a href="#">
+					Kirsty Ihenetu.</a></a>
+		</small>]
+	</main>
+</body>
+
+</html>
+
